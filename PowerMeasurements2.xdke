@@ -1,0 +1,177 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1449048628000,
+        "modified": 1449048628000,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "PowerMeasurements2.xdk": {
+        "previousModTime": 1468767979397,
+        "modified": 1468767979397,
+        "seen": true,
+        "name": "PowerMeasurements2.xdk"
+      },
+      "PowerMeasurements2.xdke": {
+        "previousModTime": 1471340237396,
+        "modified": 1471340237396,
+        "seen": true,
+        "name": "PowerMeasurements2.xdke"
+      },
+      "README.md": {
+        "previousModTime": 1468767728804,
+        "modified": 1468767728804,
+        "seen": true,
+        "name": "README.md"
+      },
+      "icon.png": {
+        "previousModTime": 1468767728792,
+        "modified": 1468767728792,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "index.html": {
+        "previousModTime": 1471340387015,
+        "modified": 1471340387015,
+        "seen": true,
+        "name": "index.html"
+      },
+      "main.js": {
+        "previousModTime": 1471001429216,
+        "modified": 1471001429216,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1468767728807,
+        "modified": 1468767728807,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk-publish-meta-data.json": {
+        "previousModTime": 1468767732618,
+        "modified": 1468767732618,
+        "seen": true,
+        "name": "xdk-publish-meta-data.json"
+      },
+      "js/gauge.js": {
+        "previousModTime": 1449048628000,
+        "modified": 1449048628000,
+        "seen": true,
+        "name": "js/gauge.js"
+      },
+      "js/gauge.min.js": {
+        "previousModTime": 1449048628000,
+        "modified": 1449048628000,
+        "seen": true,
+        "name": "js/gauge.min.js"
+      },
+      "js/gauge.min.js.map": {
+        "previousModTime": 1449048628000,
+        "modified": 1449048628000,
+        "seen": true,
+        "name": "js/gauge.min.js.map"
+      },
+      "js/index.js": {
+        "previousModTime": 1470913376705,
+        "modified": 1470913376705,
+        "seen": true,
+        "name": "js/index.js"
+      },
+      "js/jquery-1.11.1.min.js": {
+        "previousModTime": 1449048628000,
+        "modified": 1449048628000,
+        "seen": true,
+        "name": "js/jquery-1.11.1.min.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1468767730108,
+        "modified": 1468767730108,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "Settings.txt": {
+        "previousModTime": 1469783844533,
+        "modified": 1469783844533,
+        "seen": true,
+        "name": "Settings.txt"
+      },
+      "Settings.json": {
+        "previousModTime": 1469789692065,
+        "modified": 1469789692065,
+        "seen": true,
+        "name": "Settings.json"
+      },
+      "SettingsBackup.json": {
+        "previousModTime": 1470137973703,
+        "modified": 1470137973703,
+        "seen": true,
+        "name": "SettingsBackup.json"
+      },
+      "sparkfunAdc.js": {
+        "previousModTime": 1458289004000,
+        "modified": 1458289004000,
+        "seen": true,
+        "name": "sparkfunAdc.js"
+      },
+      "sparkfunadc-master/.gitignore": {
+        "previousModTime": 1458289004000,
+        "modified": 1458289004000,
+        "seen": true,
+        "name": "sparkfunadc-master/.gitignore"
+      },
+      "sparkfunadc-master/LICENSE": {
+        "previousModTime": 1458289004000,
+        "modified": 1458289004000,
+        "seen": true,
+        "name": "sparkfunadc-master/LICENSE"
+      },
+      "sparkfunadc-master/README.md": {
+        "previousModTime": 1458289004000,
+        "modified": 1458289004000,
+        "seen": true,
+        "name": "sparkfunadc-master/README.md"
+      },
+      "sparkfunadc-master/package.json": {
+        "previousModTime": 1458289004000,
+        "modified": 1458289004000,
+        "seen": true,
+        "name": "sparkfunadc-master/package.json"
+      },
+      "sparkfunadc-master/sparkfunAdc.js": {
+        "previousModTime": 1458289004000,
+        "modified": 1458289004000,
+        "seen": true,
+        "name": "sparkfunadc-master/sparkfunAdc.js"
+      },
+      "sparkfunadc-master/docs/sparkfunAdc.md": {
+        "previousModTime": 1458289004000,
+        "modified": 1458289004000,
+        "seen": true,
+        "name": "sparkfunadc-master/docs/sparkfunAdc.md"
+      },
+      "miti_OficialLogo.png": {
+        "previousModTime": 1471001942420,
+        "modified": 1471001942420,
+        "seen": true,
+        "name": "miti_OficialLogo.png"
+      }
+    },
+    "boardFileStatus": {
+      "index.html": {
+        "previousModTime": 1471340408752
+      }
+    }
+  }
+}
