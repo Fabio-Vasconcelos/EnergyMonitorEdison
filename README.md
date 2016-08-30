@@ -63,7 +63,7 @@ var settingsBackUp = '/node_app_slot/SettingsBackup.json';
 var settingsValues;   
 
 //Sometimes when writing to the settings file it would go blank. These lines of code will catch an error
-//if that happens and //load the original default values for the MainsVoltage (230V) and relayState (true)
+//if that happens and load the original default values for the MainsVoltage (230V) and relayState (true)
 try {
     settingsValues = jsonfile.readFileSync(settingsJSON);
 }
