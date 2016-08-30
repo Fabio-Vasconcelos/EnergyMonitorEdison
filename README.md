@@ -15,8 +15,8 @@ Important App Files
 
 main.js
 ---------------------------
-/*jslint node:true, vars:true, bitwise:true, unparam:true */
-/*jshint unused:true */
+//jslint node:true, vars:true, bitwise:true, unparam:true 
+//jshint unused:true 
 
 
 //Setup express 
