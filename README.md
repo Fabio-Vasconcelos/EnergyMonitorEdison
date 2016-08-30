@@ -15,7 +15,8 @@ Important App Files
 
 main.js
 ---------------------------
-'//jslint node:true, vars:true, bitwise:true, unparam:true 
+```javascript
+//jslint node:true, vars:true, bitwise:true, unparam:true 
 //jshint unused:true 
 
 
@@ -360,6 +361,6 @@ function determineADCzero(){
   }
   averageADCCurrent /= 5000;
   return ~~averageADCCurrent;    
-}'
-
+}
+```
 
