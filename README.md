@@ -35,7 +35,8 @@ console.log('MRAA Version: ' + mraa.getVersion()); //write the mraa version to t
 var sparkfunAdc = require('/home/root/.node_app_slot/node_modules/sparkfunadc');
 
 //Analog 0 is used by default with range between -4.096V and 4.094V, and step size is 2mV.
-//See https://learn.sparkfun.com/tutorials/sparkfun-blocks-for-intel-edison---adc for more information about available step ranges
+//See https://learn.sparkfun.com/tutorials/sparkfun-blocks-for-intel-edison---adc for more information about
+//available step ranges
 var a0_4v = new sparkfunAdc.Adc({
   debug: false,
 });
