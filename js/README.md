@@ -9,6 +9,7 @@ Important App Files
 
 index.js
 ---------------------------
+This code is used on the client side. It receives data from the server and represents it on a gauge display. There is also relay control to turn the plug on/off and a calibration button.
 ```javascript
 var socket = io.connect();
 
