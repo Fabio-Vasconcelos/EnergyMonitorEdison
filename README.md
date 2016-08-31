@@ -10,6 +10,7 @@ Important App Files
 
 main.js
 ---------------------------
+This code will be used on the server side. It calculates RMS current and aparent power and then sends the data to the web interface where it will be displayed.
 ```javascript
 //jslint node:true, vars:true, bitwise:true, unparam:true 
 //jshint unused:true 
