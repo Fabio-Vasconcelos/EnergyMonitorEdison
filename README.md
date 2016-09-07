@@ -84,9 +84,8 @@ var sensibility = 66;
 var AmpRMS = 0;
 var Power = 0;
 
-//Using sparkfunADC block this is the zero value on average. Use Calibrate button to get value if using
-//another sensor or another ADC
-var adcZero = 818;
+//Determines zero value
+var adcZero = determineADCzero();
 //console.log(adcZero);
 
 var sampleTime = 0.1;
